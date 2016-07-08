@@ -1,4 +1,4 @@
-package com.levo.ex03_methods;
+package com.levo.ex04_fields;
 
 public class Car {
 	
